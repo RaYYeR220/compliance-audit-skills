@@ -1,0 +1,12 @@
+# Build artifacts (skill ZIPs are regenerated from the source folders)
+*.zip
+
+# Local agent/editor settings
+.claude/
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
