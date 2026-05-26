@@ -44,17 +44,6 @@ Copy a skill folder into your agent's skills directory. For Claude Code:
 
 Then ask naturally — e.g. *"run a privacy audit"*, *"check this app before App Store submission"*, *"audit our dependency licenses"*, *"do a WCAG audit"* — and the agent loads the matching skill.
 
-## Availability
-
-These skills are published on the [Agensi marketplace](https://www.agensi.io/). Listing links:
-
-<!-- TODO: paste your Agensi listing URLs here -->
-- Legal, Security & Compliance Auditor — _link_
-- Mobile Store Compliance Auditor — _link_
-- License & Dependency Compliance Auditor — _link_
-- Accessibility Auditor — _link_
-- **Compliance & Audit Suite (bundle)** — _link_
-
 ## Disclaimer
 
 These skills produce **engineering audits, not legal advice**. License interpretation, privacy obligations, store-review outcomes, and accessibility conformance are fact-specific and subject to change. For binding decisions, consult a qualified professional.
